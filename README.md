@@ -1,1 +1,1 @@
-Made in JetBrains Rider
+Made in Unity using JetBrains Rider
